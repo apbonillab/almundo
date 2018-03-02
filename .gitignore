@@ -1,0 +1,45 @@
+pom.xml.releaseBackup
+persistence.xml
+dump.rdb
+target/
+!.mvn/wrapper/maven-wrapper.jar
+*/bin/
+
+*/bin/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+/publish.properties
+/.DS_Store
+.DS_Store
+
+# Elastic Beanstalk Files
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+/hello_application/.DS_Store
+/logs
+*.log
+/.elasticbeanstalk/config.yml
+!/.elasticbeanstalk/
+/.elasticbeanstalk/
+/upload/
+jacoco.exec
